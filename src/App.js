@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and wlwlwlwlccccccccccccccccccc
+          My First Deploy on Amazon WEB SERVICES....
         </p>
         <a
           className="App-link"
